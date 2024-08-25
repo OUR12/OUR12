@@ -9,7 +9,7 @@
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@OUR1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="our12" height="30" width="40" /></a>
-<a href="https://instagram.com/our1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="our1122" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="our1122" height="30" width="40" /></a>
 
 </p>
 
