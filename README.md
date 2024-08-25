@@ -2,7 +2,7 @@
 <h3 align="center">A student & YouTuber.</h3>
 
 
-- 💬  **We Provides You Technical Content**
+- 💬  **We Provide You Technical Content**
 
 - 📫 How to reach us **ourultimateresource@gmail.com**
 
